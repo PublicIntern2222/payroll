@@ -1,7 +1,9 @@
-## You must fork this repository. 
-## We expect you to send us a link to your forked repository with your solution. 
-## Create HOWTORUN.md explaining how to run the code.
-## You have 5 days to complete the assignment.
+* You must fork this repository. 
+* We expect you to send us a link to your forked repository with your solution. 
+* Create HOWTORUN.md explaining how to run the code.
+* You have 5 days to complete the assignment.
+
+---
 
 # Payroll System Extension Assignment
 
